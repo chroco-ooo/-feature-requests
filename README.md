@@ -14,4 +14,4 @@ CHROCO（クロコ）は作品のストーリーを掘り下げることので�
 - **機能リクエスト**: どんな機能? どんなユーザ向け? など記入
 - **バグ報告**: バグの発生するURL、発生状況など記入
 
-※質問についてはお受けできませんので、[こちらのお問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSdK3OXf6UyLJir50Gyrp8tMpwrRaZl7Fl1gWlVaLiUa6PERrA/viewform?vc=0&c=0&w=1)の方にお願いします。
+※質問についてはお受けできませんので、こちらの[お問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSdK3OXf6UyLJir50Gyrp8tMpwrRaZl7Fl1gWlVaLiUa6PERrA/viewform?vc=0&c=0&w=1)の方にお願いします。
