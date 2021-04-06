@@ -6,7 +6,7 @@ CHROCO（クロコ）は作品のストーリーを掘り下げることので�
 
 - [CHROCOの開発状況はこちら](https://github.com/chroco-ooo/projects/1?fullscreen=true)
 
-[画面](image.png)
+![画面](image.png)
 
 ## GitHub アカウントをお持ちの方へ
 
